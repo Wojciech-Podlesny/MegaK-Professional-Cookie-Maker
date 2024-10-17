@@ -8,8 +8,8 @@ MegaK-Professional-Cookie-Maker is an exercise to validate skills in Node.js, Ex
 
 - HTML
 - CSS
-- NodeJs
-- ExpressJs
+- NodeJS
+- ExpressJS
 
 ## Application View
 
